@@ -70,5 +70,4 @@ This heatmap displays correlations between numerical variables in the dataset. I
 3. Upload `healthcare_data_for_task.csv`.
 4. Run the notebook cells in order.
 
-## 👩‍💻 Author
-Healthcare Data EDA Project
+
